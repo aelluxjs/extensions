@@ -1,5 +1,5 @@
 {
-  "name": "aelluxjs-extensions",
+  "name": "@aelluxjs/extensions",
   "private": true,
   "workspaces": [
     "packages/*"
